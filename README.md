@@ -19,8 +19,7 @@ pip install Domoticz
 pip install pycryptodome 
 ```
 <br>
-More info on libraries: <a href="https://github.com/clach04/python-tuya">here</a><br>
-All the demo versions for a new project can be seen from <a href="https://developer.tuya.com/en/demo/tutorials">here</a><br>
+
 
 <h3>Demo:</h3>
 
@@ -49,6 +48,8 @@ except (ConnectionResetError, socket.timeout, OSError)  as e:
 	exit(1)
 ```
 
+<br>
+
 ## Getting access to API
 #### Step 1: CLIENT_ID and SECRET_KEY
 - Register or Login on <a href="https://auth.tuya.com" target="_blanck">Tuya</a>.
@@ -75,6 +76,6 @@ Go to <a href="https://iot.tuya.com/cloud/appinfo/cappId/setting" target="_blanc
 
 <br>
 <h3>Info:</h3>
-Check for errors while execution and enter the details of id, key, etc while executing
+If you have any problems you can contact me or comment on this.
 
 
